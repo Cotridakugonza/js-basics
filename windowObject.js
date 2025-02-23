@@ -6,3 +6,6 @@
 // alert ("Welcome ,Welcome")
 let number=prompt("Write number here")
 console.log(number)
+
+
+

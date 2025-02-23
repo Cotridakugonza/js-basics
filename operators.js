@@ -27,3 +27,6 @@ let eaten=13;
 food=food-eaten;
 food-=food;
 console.log(food)
+
+console.log("111111\n2333333\n4444444\n22222")
+console.log("aaaa\nbbbb\nrrrr")
