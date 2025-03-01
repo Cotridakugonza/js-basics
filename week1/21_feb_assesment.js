@@ -138,10 +138,10 @@ console.log(`You lived ${secondsLived} seconds.`);
 
 const nowW = new Date();
 const yearR = now.getFullYear();
-const monthH = String(now.getMonth() + 1).padStart(2, '0');
-const day = String(now.getDate()).padStart(2, '0');
-const hourss = String(now.getHours()).padStart(2, '0');
-const minutess = String(now.getMinutes()).padStart(2, '0');
+const monthH = (now.getMonth() + 1).padStart(2, '0');
+const day = (now.getDate()).padStart(2, '0');
+const hourss = (now.getHours()).padStart(2, '0');
+const minutess = (now.getMinutes()).padStart(2, '0');
 
 console.log(`${year}-${month}-${day} ${hours}:${minutes}`); // YYYY-MM-DD HH:mm
 console.log(`${day}-${month}-${year} ${hours}:${minutes}`); // DD-MM-YYYY HH:mm
