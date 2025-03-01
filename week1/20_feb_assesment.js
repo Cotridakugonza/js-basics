@@ -140,5 +140,8 @@ console.log(typeof(country));
 console.log(typeof(city));
 
 
+let ownerOfWork = "kugonza cotrida";
+console.log(ownerOfWork);
+
 //End of 20_feb_assesment lesson on datatypes by Andrew @refactor.academy//
 
