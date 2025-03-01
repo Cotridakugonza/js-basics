@@ -131,8 +131,8 @@ if (age >= 18) {
 }
 
 //exercise 6//
-const yearsLived = parseInt(prompt("Enter number of years you live:"));
-const secondsLived = yearsLived * 365 * 24 * 60 * 60;
+const yearsLive = parseInt(prompt("Enter number of years you live:"));
+const secondsLived = yearsLive * 365 * 24 * 60 * 60;
 console.log(`You lived ${secondsLived} seconds.`);
 
 
