@@ -58,5 +58,5 @@ let trustedBuyers = [
        {name:"James Ouma",NIN:"CM6767689098JG",amountDue:150000,dueDate:"2025-03-01"},
        {name:"Mariam Njeri",NIN:"CF969876534JG",amountDue:120000,dueDate:"2025-03-09"}
 ]
-let salesAgents =["Micheal","Birunji","Angella"]
+let salesAgents =["Micheal","Birunji","Angella,Cotrida"]
 console.log(salesAgents.length);
